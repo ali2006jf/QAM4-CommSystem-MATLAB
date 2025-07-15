@@ -15,3 +15,7 @@ This project simulates a basic **4-QAM** (equivalent to QPSK) digital communicat
 - Symbol sampling and bit recovery
 - Bit Error Rate (BER) calculation
 - Constellation plotting and signal visualization
+<p align="center">
+  <img src="Photos/Constellation SNR 20.jpg" alt="Constellation SNR 20" width="400" style="border:1px solid #ccc; border-radius:5px; padding:5px; margin-right:10px;" />
+  <img src="Photos/Received I and Q signals SNR 20.jpg" alt="Received I and Q signals SNR 20" width="400" style="border:1px solid #ccc; border-radius:5px; padding:5px;" />
+</p>
